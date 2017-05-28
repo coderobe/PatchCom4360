@@ -1,6 +1,8 @@
 PatchCom4360
 ===================
 
+**There is a race condition between this and IO80211GFamily, this plugin is unreliable - i am working on a fix.**
+
 Lilu plugin to patch AirPort for BRCM4360
 (Used with the BCM94352Z and co.)
 
